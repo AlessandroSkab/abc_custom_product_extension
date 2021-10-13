@@ -2,7 +2,10 @@
 
 from odoo import models, fields, api
 
-
+class product_extension(models.Model):
+       _name = 'product_extension.product_extension'
+       _description = 'product_extension.product_extension'
+    
 class ProductTemplate(models.Model):
      _inherit = 'product.template'
 #     _description = 'product_extension.product_extension'
