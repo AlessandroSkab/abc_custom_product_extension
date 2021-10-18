@@ -3,12 +3,14 @@
     'name': "Product Extension",
 
     'summary': """
-        Il modulo product_extension permette di convertire il campo Descrizione vendite del Prodotto 
-        da testo semplice in HTML.""",
+        Il modulo product_extension permette di convertire il campo Descrizione vendite del Prodotto da testo semplice ad HTML,
+        stessa cosa per il campo Descrizione relativo all'ordine di vendita
+        e infine riporta questo campo correttamente formattato nel report pdf del preventivo/ordine in conclusione dell'ordine di vendita in questione.""",
 
     'description': """
-        Il modulo product_extension permette di convertire il campo Descrizione vendite del Prodotto 
-        da testo semplice in HTML. """,
+        Il modulo product_extension permette di convertire il campo Descrizione vendite del Prodotto da testo semplice ad HTML, 
+        stessa cosa per il campo Descrizione relativo all'ordine di vendita 
+        e infine riporta questo campo correttamente formattato nel report pdf del preventivo/ordine in conclusione dell'ordine di vendita in questione. """,
 
     'author': "A.B.C. srl",
     'website': "https://www.abcstrategie.it/",
